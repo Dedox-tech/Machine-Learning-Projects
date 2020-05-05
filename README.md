@@ -6,14 +6,14 @@ The projects stored in this repository are ordered by industry or field. I am al
 ### Content:
 ### 1. Deep Learning
 
-1.1 Predictive Maintenance on Hydraulic Systems
+#### 1.1 Predictive Maintenance on Hydraulic Systems
 
-1.2 Sales Forecasting in a Brazilian Logistic Company
+#### 1.2 Sales Forecasting in a Brazilian Logistic Company
 
 ### 2. Machine Learning 
 
-2.1 Prediction of the Effectiveness of a Marketing Campaign
+#### 2.1 Prediction of the Effectiveness of a Marketing Campaign
 
-2.2 Real Estate Valuation in the Taiwan Market
+#### 2.2 Real Estate Valuation in the Taiwan Market
 
-2.3 Prediction of the Readmission of U.S Diabetic Patients
+#### 2.3 Prediction of the Readmission of U.S Diabetic Patients

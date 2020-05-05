@@ -4,6 +4,7 @@ This is my Data Science and Machine Learning collection of projects. Since I am 
 The projects stored in this repository are ordered by industry or field. I am always learning Machine Learning for my own, so you can expect updates in the existing ones in a regular basis. Also I will add new projects as soon as I could.
 
 ### Content:
+
 ### 1. Deep Learning
 
 #### 1.1 Predictive Maintenance on Hydraulic Systems

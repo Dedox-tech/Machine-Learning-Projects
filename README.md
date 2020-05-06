@@ -41,7 +41,7 @@ If we can predict this event, we will save money and man-hours effort just calli
 
 The present project aims to predict the house prices at the Taiwan market. Given features as house ages, the number of convenience stores in the living circle and the distance to the nearest MRT (Mass Rapid Transit Aka Public Transportation), the goal is predicting the house price (measured as house price per unit area).
 
-As a methodology, we use Advanced Regression Models for this task. We choice a Linear Regression as a baseline model. On the hand, we use six types of advanced regressions: Ridge Regression, Lasso Regression, Bayesian Regression, Bayesian Ridge Regression, Bagging Regression and AdaBoost Regression. 
+As a methodologic approach, we use Advanced Regression Models for this task. We choice a Linear Regression as a baseline model. On the hand, we use six types of advanced regressions: Ridge Regression, Lasso Regression, Bayesian Regression, Bayesian Ridge Regression, Bagging Regression and AdaBoost Regression. 
 
 Using Machine Learning models in Real State Valuation problems has a clear business impact. First, we can advise aspiring buyers of houses for pay the right price. On the other hand, we can also advise sellers for receive an adequate price that match with their interests.
 

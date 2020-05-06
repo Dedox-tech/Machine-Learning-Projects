@@ -7,17 +7,17 @@ The projects stored in this repository are ordered by industry or field. I am al
 
 ## 1. Deep Learning
 
-### 1.1 Predictive Maintenance on Hydraulic Systems
+### 1.1 Predictive Maintenance on Hydraulic Systems [NBViewer](https://nbviewer.jupyter.org/github/Dedox-tech/Machine-Learning-Projects/blob/master/Summarize_Maintenance.ipynb)
 
-### 1.2 Sales Forecasting in a Brazilian Logistic Company
+### 1.2 Sales Forecasting in a Brazilian Logistic Company [NBViewer](https://nbviewer.jupyter.org/github/Dedox-tech/Machine-Learning-Projects/blob/master/Sales_LSTM.ipynb)
 
 ## 2. Machine Learning 
 
-### 2.1 Prediction of the Effectiveness of a Marketing Campaign
+### 2.1 Prediction of the Effectiveness of a Marketing Campaign [NBViewer](https://nbviewer.jupyter.org/github/Dedox-tech/Machine-Learning-Projects/blob/master/marketing_analysis.ipynb)
 
-### 2.2 Real Estate Valuation in the Taiwan Market
+### 2.2 Real Estate Valuation in the Taiwan Market [NBViewer](https://nbviewer.jupyter.org/github/Dedox-tech/Machine-Learning-Projects/blob/master/Real_estate_2.ipynb)
 
-### 2.3 Prediction of the Readmission of U.S Diabetic Patients
+### 2.3 Prediction of the Readmission of U.S Diabetic Patients [NBViewer](https://nbviewer.jupyter.org/github/Dedox-tech/Machine-Learning-Projects/blob/master/Healthcare.ipynb)
 
 
 

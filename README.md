@@ -5,7 +5,7 @@ The projects stored in this repository are ordered by industry or field. I am al
 
 ## 1. Deep Learning
 
-### 1.1 Predictive Maintenance on Hydraulic Systems 
+## 1.1 Predictive Maintenance on Hydraulic Systems 
 
 The objective of this project is to predict if a petroleum-based Hydraulic System will fail in a time window given or will not fail. The system has 5 components but in this work we just examined three of them (cooler, pump and flag). Essentially, this is a predictive maintenance problem framed as a multi-class classification task. Therefore, we used a Deep Learning approach for handle the situation.
 
@@ -15,7 +15,7 @@ The rate of implementation of predictive maintenance in manufacturing plants is 
 
 [NBViewer](https://nbviewer.jupyter.org/github/Dedox-tech/Machine-Learning-Projects/blob/master/Summarize_Maintenance.ipynb) [GitHub](https://github.com/Dedox-tech/Machine-Learning-Projects/blob/master/Summarize_Maintenance.ipynb)
 
-### 1.2 Sales Forecasting in a Brazilian Logistic Company 
+## 1.2 Sales Forecasting in a Brazilian Logistic Company 
 
 This project aims to predict the daily demand of sales of a Brazilian Logistic Company. We use the information of the last 5 days of sales, for estimate the next daily sales. The data includes 60 days of the company operations. Also, it includes various features as the date and the sub classification of sales (non-urgent, urgent, type A, type B, type C).
 
@@ -27,7 +27,7 @@ Sales Forecasting is a typical operation management problem. Traditional approac
 
 ## 2. Machine Learning 
 
-### 2.1 Prediction of the Effectiveness of a Marketing Campaign 
+## 2.1 Prediction of the Effectiveness of a Marketing Campaign 
 
 The objective of this project is to predict the success of a telemarketing campaign of a Portuguese bank. The marketing campaign is a phone call one. Essentially, an operator makes a phone to a client and then the operator asks to him/her if would like to subscribe to a product (bank term deposit). The answer is a binary option (yes or no).
 
@@ -37,7 +37,7 @@ If we can predict this event, we will save money and man-hours effort just calli
 
 [NBViewer](https://nbviewer.jupyter.org/github/Dedox-tech/Machine-Learning-Projects/blob/master/marketing_analysis.ipynb) [GitHub](https://github.com/Dedox-tech/Machine-Learning-Projects/blob/master/marketing_analysis.ipynb)
 
-### 2.2 Real Estate Valuation in the Taiwan Market 
+## 2.2 Real Estate Valuation in the Taiwan Market 
 
 The present project aims to predict the house prices at the Taiwan market. Given features as house ages, the number of convenience stores in the living circle and the distance to the nearest MRT (Mass Rapid Transit Aka Public Transportation), the goal is predicting the house price (measured as house price per unit area).
 
@@ -47,7 +47,7 @@ Using Machine Learning models in Real State Valuation problems has a clear busin
 
 [NBViewer](https://nbviewer.jupyter.org/github/Dedox-tech/Machine-Learning-Projects/blob/master/Real_estate_2.ipynb) [GitHub](https://github.com/Dedox-tech/Machine-Learning-Projects/blob/master/Real_estate_2.ipynb)
 
-### 2.3 Prediction of the Readmission of U.S Diabetic Patients 
+## 2.3 Prediction of the Readmission of U.S Diabetic Patients 
 
 This project aims to predict the readmission of diabetic patients at U.S Hospitals. Given features as a patient information (age, gender, race, weight), medical information (number of medication, number of lab procedures, time in hospital) and other technical features (related with the medical diagnostic), the objective is to predict if the patient will be readmitted or will not in the next 30 days.
 

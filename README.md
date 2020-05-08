@@ -3,7 +3,7 @@
 This is my Data Science and Machine Learning collection of projects. Since I am business-related undergraduate student, I am really interested in show how Machine Learning can solve real-world business problems very well.
 The projects stored in this repository are ordered by technical field. I am always learning Machine Learning for my own, so you can expect updates in the existing ones in a regular basis. Also I will add new projects as soon as I could.
 
-## 1. Deep Learning
+# 1. Deep Learning
 
 ## 1.1 Predictive Maintenance on Hydraulic Systems 
 
@@ -17,7 +17,7 @@ This project aims to predict the daily demand of sales of a Brazilian Logistic C
 
 [NBViewer](https://nbviewer.jupyter.org/github/Dedox-tech/Machine-Learning-Projects/blob/master/Sales_LSTM.ipynb) [GitHub](https://github.com/Dedox-tech/Machine-Learning-Projects/blob/master/Sales_LSTM.ipynb)
 
-## 2. Machine Learning 
+# 2. Machine Learning 
 
 ## 2.1 Prediction of the Effectiveness of a Marketing Campaign 
 
